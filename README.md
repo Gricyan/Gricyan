@@ -16,7 +16,7 @@
 <img align="left" alt="API" title="API" width="25px" src="./assets/icons/stack-icon-api.svg" />
 <img align="left" alt="Git" title="Git" width="25px" src="./assets/icons/icon-git.svg" />
 <img align="left" alt="GitHub" title="GitHub" width="25px" src="./assets/icons/my-github.svg" />
-<img align="left" alt="VS Code" title="VS Code" width="API" width="25px" src="./assets/icons/stack-icon-vs-code.svg" />
+<img align="left" alt="VS Code" title="VS Code" width="25px" src="./assets/icons/stack-icon-vs-code.svg" />
 
 
 ## Languages 
@@ -27,4 +27,5 @@
 
 [<img align="left" alt="My Telegram" title="My Telegram" width="25px" src="./assets/icons/my-telegram.svg" />](https://t.me/Jan_Grycan)
 [<img align="left" alt="My Discord" title="My Discord" width="25px" src="./assets/icons/my-discord.svg" />](https://discordapp.com/users/728380730018889869/)
+[<img align="left" alt="My linkedin" title="My linkedin" width="25px" src="./assets/icons/my-linkedin.svg" />](https://www.linkedin.com/in/ivanhryhoriev/)
 [<img align="left" alt="My mail" title="My mail" width="25px" src="./assets/icons/my-mail.svg" />](mailto:admin@web-architect.pro)
