@@ -21,11 +21,12 @@
 
 ## Languages 
 
-```English (B2)```, ```Polish (B2)```, ```Ukrainian (Native)```, ```Russian (Native)```
+```English (B2)```  ```Polish (B2)```  ```Ukrainian (Native)```  ```Russian (Native)```
 
-## Contacts
+## Contacts and my CV
 
 [<img align="left" alt="My Telegram" title="My Telegram" width="25px" src="./assets/icons/my-telegram.svg" />](https://t.me/Jan_Grycan)
 [<img align="left" alt="My Discord" title="My Discord" width="25px" src="./assets/icons/my-discord.svg" />](https://discordapp.com/users/728380730018889869/)
 [<img align="left" alt="My linkedin" title="My linkedin" width="25px" src="./assets/icons/my-linkedin.svg" />](https://www.linkedin.com/in/ivanhryhoriev/)
 [<img align="left" alt="My mail" title="My mail" width="25px" src="./assets/icons/my-mail.svg" />](mailto:admin@web-architect.pro)
+[<img align="left" alt="My CV" title="My CV" width="25px" src="./assets/icons/my-cv.svg" />](https://gricyan.github.io/rsschool-cv/)
