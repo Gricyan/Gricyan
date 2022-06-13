@@ -16,8 +16,8 @@
 <img align="left" alt="API" title="API" width="25px" src="./assets/icons/stack-icon-api.svg" />
 <img align="left" alt="Git" title="Git" width="25px" src="./assets/icons/icon-git.svg" />
 <img align="left" alt="GitHub" title="GitHub" width="25px" src="./assets/icons/my-github.svg" />
-<img align="left" alt="VS Code" title="VS Code" width="25px" src="./assets/icons/stack-icon-vs-code.svg" /><br>
-
+<img align="left" alt="VS Code" title="VS Code" width="25px" src="./assets/icons/stack-icon-vs-code.svg" />
+<br style="clear: both;">
 
 ## Languages 
 
