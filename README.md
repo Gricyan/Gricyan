@@ -8,15 +8,15 @@
 
 ## Skills and Tools
 
-<img align="left" alt="HTML" title="HTML" width="25px" src="./assets/icons/stack-icon-html.svg" />
-<img align="left" alt="CSS" title="CSS" width="25px" src="./assets/icons/stack-icon-css.svg" />
-<img align="left" alt="JS" title="JS" width="25px" src="./assets/icons/stack-icon-js.svg" />
-<img align="left" alt="SASS" title="SASS" width="25px" src="./assets/icons/stack-icon-sass.svg" />
-<img align="left" alt="Webpack" title="Webpack" width="25px" src="./assets/icons/stack-icon-webpack.svg" />
-<img align="left" alt="API" title="API" width="25px" src="./assets/icons/stack-icon-api.svg" />
-<img align="left" alt="Git" title="Git" width="25px" src="./assets/icons/icon-git.svg" />
-<img align="left" alt="GitHub" title="GitHub" width="25px" src="./assets/icons/my-github.svg" />
-<img align="left" alt="VS Code" title="VS Code" width="25px" src="./assets/icons/stack-icon-vs-code.svg" />
+<img style="align: left; margin-top: 10px;" alt="HTML" title="HTML" width="25px" src="./assets/icons/stack-icon-html.svg" />
+<img style="align: left; margin-top: 10px;" alt="CSS" title="CSS" width="25px" src="./assets/icons/stack-icon-css.svg" />
+<img style="align: left; margin-top: 10px;" alt="JS" title="JS" width="25px" src="./assets/icons/stack-icon-js.svg" />
+<img style="align: left; margin-top: 10px;" alt="SASS" title="SASS" width="25px" src="./assets/icons/stack-icon-sass.svg" />
+<img style="align: left; margin-top: 10px;" alt="Webpack" title="Webpack" width="25px" src="./assets/icons/stack-icon-webpack.svg" />
+<img style="align: left; margin-top: 10px;" alt="API" title="API" width="25px" src="./assets/icons/stack-icon-api.svg" />
+<img style="align: left; margin-top: 10px;" alt="Git" title="Git" width="25px" src="./assets/icons/icon-git.svg" />
+<img style="align: left; margin-top: 10px;" alt="GitHub" title="GitHub" width="25px" src="./assets/icons/my-github.svg" />
+<img style="align: left; margin-top: 10px;" alt="VS Code" title="VS Code" width="25px" src="./assets/icons/stack-icon-vs-code.svg" />
 <br style="clear: both;">
 
 ## Languages 
