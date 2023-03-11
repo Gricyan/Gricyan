@@ -2,8 +2,9 @@
 
 ## Intro
 
-- 💻 Web development is my fascination 🎯 and work 🚀 at the same time.
-- 💼 FrontEnd Web Developer experienced in a variety of platforms, that are cross browser and cross device compatible, including:  Vue, Laravel, Javascript, HTML5, SQL, CSS3/SCSS, Bootstrap, PHP, Webpack, Git/GitHub, VS Code, Photoshop, Illustrator, Adobe XD, Figma, Wordpress, ACF
+- 💻 Web development has been a passion of mine since 2015. That's when I created my first website 🚀.
+- 💼 In my recent projects I worked with Vue and Laravel frameworks, and also used Javascript, HTML5, CSS3/SCSS, Bootstrap, PHP, SQL, Webpack, Git/GitHub and VS Code.
+- 🎯 Prior to becoming a web developer, I studied law and worked as an assistant of a judge for several years. This experience gave me valuable skills such as punctuality, meticulousness and stress tolerance.
 
 ## Skills and Tools
 
